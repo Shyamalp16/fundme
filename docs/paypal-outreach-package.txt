@@ -1,0 +1,61 @@
+fudnME — PayPal outreach package
+Prepared: August 16, 2026
+
+SUBMISSION ROUTE
+PayPal Platforms and Marketplaces form:
+https://developer.paypal.com/platforms/overview
+
+PayPal Canada contact-sales form:
+https://securepayments.paypal.com/ca/business/contact-sales
+
+PayPal Canada sales phone: 1-866-357-0135
+
+Use the Platforms and Marketplaces form first. If the form routes you to general sales, call the Canadian sales number and ask for a Platforms and Marketplaces / multiparty payments representative plus a Canadian risk/compliance review.
+
+FORM VALUES
+Company name: fudnME — pre-incorporation project
+Website: https://fudnme.now
+Country: Canada
+Company type: Platform / marketplace / crowdfunding (select the closest available option)
+Client annual volume: Pre-revenue; under CAD $100,000 planning range for the first 12 months
+Existing PayPal Business account: No, if applicable
+
+DESCRIPTION FIELD
+We are developing fudnME, a Canadian consumer web platform where verified adults create public, lighthearted personal goals and other adults may give a small, unconditional monetary gift. A supporter may contribute a maximum of CAD $1 to a particular ask and may support up to ten asks per week. No product, service, reward, perk, equity, ownership, interest, loan, prize, raffle entry, contest entry, chance to win, or charitable tax receipt is provided. The target is aspirational. The product is pre-launch, no live funds are currently accepted, and the deployed prototype is a waitlist site at https://fudnme.now.
+
+We are seeking preliminary written guidance on whether this model is permitted in Canada and whether PayPal Complete Payments / multiparty capabilities can support recipient onboarding, KYC/AML, partner fees, delayed disbursement, payouts, disputes, refunds, chargebacks, reserves, and reporting. The platform will not use a personal PayPal account or accept live funds before provider approval, incorporation, legal review, and required controls are complete. Please route this to Platforms and Marketplaces and Canadian risk/compliance, and provide a case or approval reference number.
+
+FOLLOW-UP MESSAGE / EMAIL
+Subject: Canadian pre-launch platform seeking PayPal multiparty approval review — fudnME
+
+Hello PayPal Platforms and Marketplaces team,
+
+I am building fudnME, a Canadian pre-launch web platform for small, unconditional peer-to-peer gifts. Verified adults will be able to post public personal goals; other adults may voluntarily give a maximum of CAD $1 to a particular ask, with a weekly limit on the number of asks a supporter can support.
+
+This is not a sale of goods or services, a charity, an investment, a loan, a contest, a raffle, or a rewards-based crowdfunding campaign. Supporters receive nothing in exchange, and the target is aspirational. No live payments are currently accepted. Our deployed pre-launch prototype is https://fudnme.now.
+
+We would like a preliminary written review of whether this model can be approved in Canada using PayPal Complete Payments / multiparty capabilities, including recipient onboarding, KYC/AML, partner fees, delayed disbursement, payout timing, disputes, refunds, chargebacks, reserves, and reporting. We also need guidance on the correct PayPal classification and whether a separate disclosed platform fee is permitted while the recipient receives the full stated CAD $1 gift amount.
+
+We are currently pre-incorporation and pre-revenue. We will not open a production account under a founder’s personal name or process live funds until PayPal approval, Canadian legal review, and the required controls are in place.
+
+Could you connect me with the appropriate Canadian Platforms and Marketplaces or risk/compliance representative? Please provide the correct application path, required documentation, and a case or approval reference number. I have attached a short approval brief with the proposed flow, controls, and specific questions.
+
+Thank you,
+[Founder legal name]
+Founder, fudnME
+[Business email]
+[Phone number]
+https://fudnme.now
+
+PHONE SCRIPT
+“Hi, I’m calling about a Canadian pre-incorporation consumer platform seeking a preliminary Platforms and Marketplaces review. The product is a pre-launch social micro-gifting platform: adult users may voluntarily give another adult a maximum of one Canadian dollar, with no product, service, reward, investment, contest, or charitable receipt. We need the correct multiparty/crowdfunding classification, onboarding path, and a written risk/compliance review before accepting live funds. Could you connect me with the Canadian Platforms and Marketplaces team and give me a case reference?”
+
+DO NOT SAY
+- “PayPal approved us.”
+- “This is a charity.”
+- “Users are investing.”
+- “Supporters get a chance to win.”
+- “We already process payments.”
+
+ATTACHMENT
+paypal-platform-approval-brief.docx

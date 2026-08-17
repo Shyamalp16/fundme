@@ -21,7 +21,7 @@ create table public.waitlist_signups (
 );
 
 comment on table public.waitlist_signups is
-  'Pre-launch fun(d)ME waitlist signups with explicit marketing consent.';
+  'Pre-launch fudnME waitlist signups with explicit marketing consent.';
 
 create index waitlist_signups_created_at_idx
   on public.waitlist_signups (created_at desc);

@@ -1,14 +1,14 @@
-# fun(d)ME — Pre-launch Website Design System
+# fudnME — Pre-launch Website Design System
 
 Status: working V1 direction  
 Surface: responsive marketing and waitlist website  
 Design sources: Designly art direction + Superdesign high-contrast editorial foundation  
-Brand: `fun(d)ME`  
-Domain: `fun.me`
+Brand: `fudnME`
+Domain: `fudnme.now`
 
 ## 1. Product and page scope
 
-fun(d)ME is a social micro-gifting experiment. An adult will be able to make a public ask with a target. Other people will be able to give exactly one dollar to that ask, once, with a maximum of ten supported asks per week.
+fudnME is a social micro-gifting experiment. An adult will be able to make a public ask with a target. Other people will be able to give exactly one dollar to that ask, once, with a maximum of ten supported asks per week.
 
 This V1 is an advertisement for the future product, not the product itself. Its only interactive product action is joining the waitlist. It must not contain:
 
@@ -38,7 +38,7 @@ The single conversion goal is **Join the waitlist**. “See how it works” is a
 
 ## 4. Brand position and voice
 
-fun(d)ME is:
+fudnME is:
 
 - Clear before clever
 - Playful without becoming a meme template
@@ -71,12 +71,12 @@ Every decorative device must explain the concept. Repetition cannot be used mere
 
 ## 6. Brand signature
 
-- Visible wordmark is exactly `fun(d)ME`.
-- `fun` and `ME` use warm ink; `(d)` uses signal coral.
-- The parenthesized `d` is the identity hinge: fun becomes fundable.
-- Preserve the exact casing. Never use `FUN(D)ME`, `FundMe`, or `funDme`.
+- Visible wordmark is exactly `fudnME`.
+- `fu` and `ME` use warm ink; the transposed `dn` uses signal coral.
+- The transposed `dn` is the identity hinge: “fund me,” slightly out of order.
+- Preserve the exact casing. Never use `FUDNME`, `Fudnme`, or `fudnme` for the product name.
 - Screen-reader label is “fund me.”
-- `fun.me` is a quiet, lowercase secondary signature.
+- `fudnme.now` is a quiet, lowercase secondary signature.
 
 ## 7. Color system
 
@@ -126,7 +126,7 @@ Mobile uses one column and 16px gutters. Minimum interactive target is 44×44px.
 
 ### Navigation
 
-- Wordmark + `fun.me`
+- Wordmark + `fudnme.now`
 - Links: The idea, How it works, The rules
 - Single CTA: Join the waitlist
 - Sticky, lightly translucent warm background

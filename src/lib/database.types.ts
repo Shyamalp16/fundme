@@ -14,6 +14,8 @@ export type Database = {
     Tables: {
       waitlist_signups: {
         Row: {
+          confirmation_email_id: string | null;
+          confirmation_sent_at: string | null;
           consented_at: string;
           created_at: string;
           email: string;
@@ -23,6 +25,8 @@ export type Database = {
           source: string;
         };
         Insert: {
+          confirmation_email_id?: string | null;
+          confirmation_sent_at?: string | null;
           consented_at?: string;
           created_at?: string;
           email: string;
@@ -32,6 +36,8 @@ export type Database = {
           source?: string;
         };
         Update: {
+          confirmation_email_id?: string | null;
+          confirmation_sent_at?: string | null;
           consented_at?: string;
           created_at?: string;
           email?: string;

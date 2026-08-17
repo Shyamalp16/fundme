@@ -71,7 +71,7 @@ export function WaitlistForm({ onNotice }: WaitlistFormProps) {
     try {
       await joinWaitlist({ email, role });
       setComplete(true);
-      onNotice("You’re on the waitlist.");
+      onNotice("You’re on the waitlist — check your inbox.");
     } catch (submitError) {
       setError(submitError instanceof Error ? submitError.message : "We could not save your signup. Please try again.");
     } finally {
@@ -85,7 +85,7 @@ export function WaitlistForm({ onNotice }: WaitlistFormProps) {
         <span className="waitlist-success__icon"><CheckIcon size={22} /></span>
         <div>
           <strong>You’re in.</strong>
-          <p>You’re on the list. We’ll email when there is something worth showing you.</p>
+          <p>Your confirmation email is on its way. We’ll email again when there is something worth showing you.</p>
         </div>
       </div>
     );

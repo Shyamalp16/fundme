@@ -25,9 +25,9 @@ function App() {
     <>
       <header className="site-header">
         <div className="page-shell site-header__inner">
-          <a className="brand-link" href="#top" aria-label="fun(d)ME home">
+          <a className="brand-link" href="#top" aria-label="fudnME home">
             <Brand />
-            <span>fun.me</span>
+            <span>fudnme.now</span>
           </a>
           <nav className="desktop-nav" aria-label="Primary navigation">
             <a href="#idea">The idea</a>
@@ -78,7 +78,7 @@ function App() {
               </div>
             </div>
 
-            <aside className="hero-object" aria-label="The fun(d)ME idea in one equation">
+            <aside className="hero-object" aria-label="The fudnME idea in one equation">
               <div className="hero-object__topline"><span>The whole idea</span><span>01 / 01</span></div>
               <div className="hero-object__dollar" aria-hidden="true">$1</div>
               <div className="hero-object__equation"><span>one person</span><b>×</b><span>enough strangers</span></div>
@@ -132,7 +132,7 @@ function App() {
               <h2 className="section-title" id="loop-title">The ask is<br />the invitation.</h2>
               <p>Someone sees your ask, gives $1, and sends it to somebody else. That is how it moves.</p>
             </div>
-            <div className="loop-diagram" aria-label="The fun(d)ME sharing loop">
+            <div className="loop-diagram" aria-label="The fudnME sharing loop">
               <div><span>01</span><strong>Make the ask</strong></div><b aria-hidden="true">→</b>
               <div><span>02</span><strong>Share the link</strong></div><b aria-hidden="true">→</b>
               <div><span>03</span><strong>Get a $1 yes</strong></div><b aria-hidden="true">→</b>
@@ -173,10 +173,10 @@ function App() {
         <div className="page-shell site-footer__main">
           <div><Brand /><p>Ask for something. See if the internet gives it a dollar.</p></div>
           <div><strong>Read</strong><a href="#idea">The idea</a><a href="#how">How it works</a><a href="#rules">The rules</a></div>
-          <div><strong>Contact</strong><a href="mailto:hello@fun.me">hello@fun.me</a><a href="#waitlist">Join the waitlist</a></div>
+          <div><strong>Contact</strong><a href="mailto:hello@fudnme.now">hello@fudnme.now</a><a href="#waitlist">Join the waitlist</a></div>
         </div>
         <div className="page-shell site-footer__bottom">
-          <span>© {new Date().getFullYear()} fun(d)ME</span><span>Pre-launch · No real money accepted</span><span>fun.me</span>
+          <span>© {new Date().getFullYear()} fudnME</span><span>Pre-launch · No real money accepted</span><span>fudnme.now</span>
         </div>
       </footer>
 
